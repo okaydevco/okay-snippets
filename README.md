@@ -1,4 +1,4 @@
-# OKAY DEV® Snippets Repository
+# OKAY DEV® Snippets
 
 Welcome to the official **Okay Dev Snippets** repository — a curated collection of helpful code snippets contributed by trusted members of the **Okay Dev** community.
 
