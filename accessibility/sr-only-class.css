@@ -1,5 +1,5 @@
 /* As mentioned by Sara Soueidan at CSS Day 2024 https://www.youtube.com/watch?v=ob_M_qXeDVE */
-.sr-only {
+.sr-only:not(:focus):not(:active) {
   position: absolute;
   white-space: nowrap;
   width: 1px;
