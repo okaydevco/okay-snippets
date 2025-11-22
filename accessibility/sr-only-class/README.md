@@ -31,5 +31,6 @@ Order in which browsers determine accessible names:
 3. `aria-labelledby`
 4. `aria-label`
 
-https://developer.mozilla.org/en-US/docs/Glossary/Accessible_name
-https://www.w3.org/WAI/ARIA/apg/practices/names-and-descriptions/
+## References:
+- https://developer.mozilla.org/en-US/docs/Glossary/Accessible_name
+- https://www.w3.org/WAI/ARIA/apg/practices/names-and-descriptions/
